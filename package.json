@@ -1,0 +1,22 @@
+{
+  "name": "faceauth",
+  "version": "1.0.0",
+  "description": "This is chinmux mini-project supporting library at walchand college of engineering, sangli. ",
+  "main": "mylib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitshinde333/mylib.git"
+  },
+  "keywords": [
+    "face-authentication"
+  ],
+  "author": "Rohit Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitshinde333/mylib/issues"
+  },
+  "homepage": "https://github.com/rohitshinde333/mylib#readme"
+}
